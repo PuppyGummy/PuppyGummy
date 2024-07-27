@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
-</div>
+<img align="right" height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
 
 ###
 
@@ -60,12 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/puppygummy/puppygummy/output/snake.svg" alt="Snake animation" />
 
 ###
 
