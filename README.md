@@ -2,11 +2,10 @@
 
 ###
 
-<p align="left">✨ I'm a developer from 🇨🇳, currently living in 🇨🇦.<br>👩 Pronouns: she/her<br>🐾 I have 2 🐈 and 1 🐕 back home.<br>💖 Talk to me if you also love Pokemon and Nintendo!</p>
+<img align="right" height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
+<p align="left">✨ I'm a developer from 🇨🇳, currently living in 🇨🇦.<br>👩 Pronouns: she/her<br>🐾 I have 2 🐈 and 1 🐕 back home.<br>💖 Talk to me if you also love Pokemon and Nintendo!</p>
 
 ###
 
